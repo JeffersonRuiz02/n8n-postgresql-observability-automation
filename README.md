@@ -50,3 +50,5 @@ n8n-postgresql-observability-automation/
 ├── README.md
 └── img/
     └── workflow_n8n_postgresql.png
+
+> **Nota de Confidencialidad y Seguridad:** La información, imagen del flujo automatizado mostrado en este repositorio corresponden a plantilla anonimizada y nodos empleados con fines exclusivamente demostrativos de portafolio técnico, cumpliendo con las políticas de seguridad y privacidad de la información.
