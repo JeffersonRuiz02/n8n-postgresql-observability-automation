@@ -42,6 +42,9 @@ El sistema opera bajo un esquema estructurado en cuatro fases de monitoreo más 
 
 ---
 
+> **Nota de Confidencialidad y Seguridad:** La información, imagen del flujo automatizado mostrado en este repositorio corresponden a plantilla anonimizada y nodos empleados con fines exclusivamente demostrativos de portafolio técnico, cumpliendo con las políticas de seguridad y privacidad de la información.
+
+---
 ## 📂 Estructura del Repositorio
 
 ```text
@@ -50,5 +53,3 @@ n8n-postgresql-observability-automation/
 ├── README.md
 └── img/
     └── workflow_n8n_postgresql.png
-
-> **Nota de Confidencialidad y Seguridad:** La información, imagen del flujo automatizado mostrado en este repositorio corresponden a plantilla anonimizada y nodos empleados con fines exclusivamente demostrativos de portafolio técnico, cumpliendo con las políticas de seguridad y privacidad de la información.
